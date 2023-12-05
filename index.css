@@ -1,0 +1,37 @@
+body{
+	background-color: white;
+	position:fixed;
+}
+h1{
+	font-family: "amandine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 104px;
+    padding-right: 929px;
+    line-height: 130px;
+    padding-left: 40px;
+}
+a button:hover{
+ 	color:grey;
+}
+
+a button{
+	float: left;
+	padding-left: 40px;
+    padding-inline: 46px;
+  
+}
+
+button{
+
+    background-color: transparent;
+ 	border: solid white;
+ 	border-radius: 60px;
+ 	cursor:pointer;
+ 	transition: all 0.3s ease 0s;
+ 	font-family: indivisible, sans-serif;
+	font-weight: medium;
+    font-style: regular;
+    font-size: 26px;
+}

@@ -1,0 +1,112 @@
+body{
+    
+	background-color: white;
+	position:fixed;
+	margin: 0;
+}
+
+.img{
+	float: left;
+	overflow: hidden;
+	height: 100vw;
+}
+
+.container{
+	padding: 100px;
+	overflow: hidden;
+
+}
+
+.text h1{
+	font-family: "amandine", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 100px;
+    margin-top: -16%;
+}
+
+.text h4{
+	font-family: indivisible, sans-serif;
+	font-weight: semibold;
+    font-style: italic;
+    margin-top: -45px
+}
+.text p{
+	font-family: helvetica;
+	opacity: 60%;
+	margin-right: 40%;
+	margin-bottom: 12%;
+}
+
+.recipe h3{
+	font-family: "amandine", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    writing-mode: vertical-lr;
+    display: inline;
+    word-spacing: 2px;
+    letter-spacing: 1.2px;
+    transform: rotate(180deg);
+    font-size: 50px;
+    margin-left: -28px;
+
+}
+.recipe p{
+	font-family: indivisible, sans-serif;
+	font-weight: 400;
+    font-style: regular;
+    display: inline;
+    position: absolute;
+    border-spacing: 0.6px;
+    font-size: 16.5px;
+    margin-left: -45px;
+    margin-right: 10%;
+}
+
+a button:hover{
+ 	color:grey;
+}
+
+a button{
+	float: right;
+    margin-right: 35px;
+    margin-top: 9%;
+}
+
+button{
+
+    background-color: transparent;
+ 	border: solid white;
+ 	border-radius: 60px;
+ 	cursor:pointer;
+ 	transition: all 0.3s ease 0s;
+ 	font-family: indivisible, sans-serif;
+	font-weight: medium;
+    font-style: regular;
+}
+
+audio{
+	    margin-top: 7%;
+    margin-left: 5%;
+}
+.music a button:hover{
+ 	color:grey;
+}
+
+.music a button{
+	
+   
+    margin-top: 9%;
+}
+
+.music button{
+
+    background-color: transparent;
+ 	border: solid white;
+ 	border-radius: 60px;
+ 	cursor:pointer;
+ 	transition: all 0.3s ease 0s;
+ 	font-family: indivisible, sans-serif;
+	font-weight: medium;
+    font-style: regular;
+}
